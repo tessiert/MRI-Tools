@@ -1,11 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
-get_ipython().run_line_magic('matplotlib', 'inline')
-
 import matplotlib.pyplot as plt
 import os
 import nibabel as nib
