@@ -1,4 +1,4 @@
-# mri-tools
+# MRI-Tools
 
 ## bi_tensor.py 
 - my implementation of the free water diffusion-tensor imaging (DTI) algorithm described in the paper:
