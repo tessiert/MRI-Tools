@@ -56,7 +56,7 @@ def find_true_positives(tmp_dir, trial_mask, manual_mask):
 
 
 
-# Function that calculates the Dice simularity coefficient
+# Function that calculates the Dice similarity coefficient
 def calculate_dice(num_true_pos, num_false_pos, num_false_neg):
 
     dice = 2*num_true_pos/(2*num_true_pos + num_false_pos + num_false_neg)
